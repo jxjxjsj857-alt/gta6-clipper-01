@@ -10,6 +10,10 @@ GTA 6 in 20 seconds — a vertical clip cut by my AI agent from Rockstar's offic
 
 The finished clip (`clip/gta6-clip-1080x1920.mp4`, 1080×1920 vertical, under 60 seconds) is uploaded to YouTube by the channel owner as a public Short. `VIDEO.json` currently holds the starter placeholder and will be replaced with the real video address once the clip is published — see the repo's commit history.
 
+## How the clip was made
+
+Cut by the agent in the build session from Rockstar's official GTA 6 Trailer 2 (Rockstar Games on YouTube): a 2-second hook on the brightest Vice City frame with "GTA 6 来了 / GTA 6 IS HERE", fast cuts of Leonida, Lucia and Jason, then a darkened end card pitching make.fun ("Make clips like this with AI and earn money on make.fun — make.fun/bounty/gta6-clipper-01"). Vertical 1080×1920, 30 fps, H.264 + AAC, rendered with ffmpeg in-session.
+
 ## Run it
 
 ```sh
